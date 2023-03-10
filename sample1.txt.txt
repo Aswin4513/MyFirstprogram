@@ -1,0 +1,20 @@
+                 package fact;
+
+                public class Factorial {
+
+	        public static void main(String[] args)
+               for(int val=1;val<=10;val++)
+               {
+	       int fact=1;
+	       for(int no=1;no<=val;no++)
+	       {
+	       fact=fact*no;
+	
+	
+               }
+               System.out.println(fact);
+
+	    }
+
+      }
+   }
